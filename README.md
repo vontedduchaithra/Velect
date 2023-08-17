@@ -23,6 +23,23 @@ Now you can access the database and Login using following Credentials.
 
 -->New voters can sign up using the sign up option in the home page
 
+## Screenshots 📸
+
+Home👇
+[![home.jpg](https://i.postimg.cc/VvQ12jQz/home.jpg)](https://postimg.cc/xJRWzN1Z)
+Admin home panel 👇
+[![admin-home.jpg](https://i.postimg.cc/3NJ98qH1/admin-home.jpg)](https://postimg.cc/ygt0nvx3)
+Add Election👇
+[![add-election.jpg](https://i.postimg.cc/fbDdQ9sj/add-election.jpg)](https://postimg.cc/fVqyxkJJ)
+Add Candidate👇
+[![add-candidate.jpg](https://i.postimg.cc/QM8FyZgf/add-candidate.jpg)](https://postimg.cc/K1Wc1VHT)
+Voter voting panel👇
+[![voting-page.jpg](https://i.postimg.cc/Hnw8VwQL/voting-page.jpg)](https://postimg.cc/bSvw52VX)
+Voter after voting👇
+[![voter-after-voting.jpg](https://i.postimg.cc/d1tJ88P1/voter-after-voting.jpg)](https://postimg.cc/Z92kmvqt)
+Voter panel when no elections👇
+[![voter-page-after-election.jpg](https://i.postimg.cc/K8Mjzrxh/voter-page-after-election.jpg)](https://postimg.cc/ts9pv6sB)
+
 ## Tech Stack ♨️
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
